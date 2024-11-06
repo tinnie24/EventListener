@@ -28,3 +28,12 @@ label, #result {
 button {
   margin: 5px 2px;
 }
+footer {
+  color: #350a2f;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background-color: #cfa7c0;
+  text-align: center;
+  padding: 10px;
+}
