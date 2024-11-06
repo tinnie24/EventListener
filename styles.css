@@ -1,0 +1,30 @@
+body {
+  font-family: 'Raleway', sans-serif;
+  background-image: url('calc.jpg');
+}
+.container {
+  max-width: 500px auto;
+  margin: 50px auto;
+  padding: 40px auto;
+  border-radius: 8px;
+  background-color: #f1f1f1;
+}
+h1 {
+  text-align: center;
+  color: #333;
+}
+label, #result {
+  font-size: 1.1em;
+  color: #333;
+}
+#result {
+  padding: 10px;
+  margin-top: 3px;
+  background-color: #e8f4fa;
+  border: 1px solid #b3e0f3;
+  border-radius: 5px;
+  text-align: center;
+}
+button {
+  margin: 5px 2px;
+}
